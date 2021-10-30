@@ -3,7 +3,7 @@
 ## I'm a Student currently making my carrer transition into Web Developer!!
 
 - 👯 I’m looking to collaborate with Web development projects
-- 🥅 2021 Goals: Contribute more to MERN STACK!
+- 🥅 2021 Goals: Contribute more to MEAN STACK!
 - ⚡ Fun fact: I love to Learn new Technologies.
 
 ### Connect with me:
