@@ -1,6 +1,6 @@
 ### Hi there, I'm Muneeswaran B 👋
 
-## I'm a Student currently making my carrer transition into Web Developer!!
+## I'm a Student currently making my carrer transition into Web Developement!!
 
 - 👯 I’m looking to collaborate with Web development projects
 - 🥅 2021 Goals: Contribute more to MEAN STACK!
