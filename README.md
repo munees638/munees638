@@ -1,9 +1,9 @@
 ### Hi there, I'm Muneeswaran B 👋
 
-## I'm a Student currently making my carrer transition into Web Developement!!
+## I'm an Engineering Student currently making my carrer transition into Java Developer!!
 
-- 👯 I’m looking to collaborate with Web development projects
-- 🥅 2021 Goals: Contribute more to MEAN STACK!
+- 👯 I’m starts to learn SpringBoot!
+- 🥅 2022 Goals: Contribute more to open source projects!
 - ⚡ Fun fact: I love to Learn new Technologies.
 
 ### Connect with me:
